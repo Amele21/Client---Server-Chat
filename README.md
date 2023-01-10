@@ -1,3 +1,4 @@
+# README
 Client Server chat document
 Introduction:
 ● This program is a simple client-server program that uses python sockets The program emulates a
